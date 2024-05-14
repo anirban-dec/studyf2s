@@ -784,3 +784,9 @@ body {
     margin: auto;
   }
 }
+@media (max-width: 320px) {
+  .contactusad button {
+    margin-left: 7em;
+    margin-bottom: 2em;
+  }
+}
