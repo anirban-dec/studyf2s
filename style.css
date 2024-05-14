@@ -585,7 +585,8 @@ body {
     width: 13em;
   }
   .Services h1 {
-    margin-top: 3em;
+    margin-top: 0em;
+    font-size: 2.7em;
   }
   .service-front {
     height: 300px;
