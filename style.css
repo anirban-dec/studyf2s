@@ -741,12 +741,13 @@ body {
   }
   .contactusad .contactusp2 {
     font-size: 11px;
-  }
+    margin: 2em;
+}
   .contactusad button {
     margin-left: 9em;
   }
   .contactusad {
-    height: 24vh;
+    height: auto;
   }
   .bookacall {
     display: block;
