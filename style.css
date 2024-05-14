@@ -562,7 +562,7 @@ body {
 @media (max-width: 480px) {
   .firstheading h1 {
     padding-top: 25vh;
-    font-size: 1.7em;
+    font-size: 1.2em;
   }
   .tophead {
     display: block;
